@@ -1,1 +1,1 @@
-# Hello-world My name is Doug Soung I work for USBANK
+ My name is Doug Soung and I work for USBANK
